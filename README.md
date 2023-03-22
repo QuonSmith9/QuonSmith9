@@ -1,4 +1,4 @@
-<h1>Hi, I'm Quon, an <a href="https://linkedin.com/in/QuonSmith9">IT Professional</a>☺</h1>
+<h1>Hi, I'm Quon, an <a href="https://linkedin.com/in/Jas'QuonSmith">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
